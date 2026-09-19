@@ -94,7 +94,7 @@ export const services: Service[] = [
 
     tileTitle: "Kodowanie samochodowe",
     tileDescription: "BMW • MINI • VAG • Mercedes-Benz",
-    tileImage: "public/images/kodowanie_main.png", // ścieżka np. "/images/services/kodowanie-samochodowe-tile.jpg"
+    tileImage: "public/images/kodowanie_main.jpeg", // ścieżka np. "/images/services/kodowanie-samochodowe-tile.jpg"
 
     heroTitle: "Kodowanie samochodowe",
     heroImage: "", // ścieżka np. "/images/services/kodowanie-samochodowe-hero.jpg"
